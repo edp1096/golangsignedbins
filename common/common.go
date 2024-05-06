@@ -16,7 +16,7 @@ import (
 const (
 	PrivateKey      = "./keys/private_key.pem"
 	PublicKey       = "./keys/public_key.pem"
-	BinaryToSign    = "./heartbeat/bin/heartbeat"
+	BinaryToSign    = "./heartbeat/bin/heartbeat.exe"
 	BinarySignature = "./signatures/heartbeat.sig"
 )
 
